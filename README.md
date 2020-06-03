@@ -16,8 +16,8 @@
 
 ## Infosec
 
-- 2factorauth/twofactorauth: [Add Remember The Milk to 2FA database](https://github.com/2factorauth/twofactorauth/pull/3635)
-- ssaunier/lockyourscreen: [Add Yoda to lockyourscreen website](https://github.com/ssaunier/lockyourscreen/pull/10)
+- 2factorauth/twofactorauth: [Added Remember The Milk to 2FA database](https://github.com/2factorauth/twofactorauth/pull/3635)
+- ssaunier/lockyourscreen: [Added Yoda to lockyourscreen website](https://github.com/ssaunier/lockyourscreen/pull/10)
 
 ## Educational software
 
