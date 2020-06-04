@@ -1,13 +1,13 @@
 # My contributions to other people's projects
 
-## Puppet module ecosystem
+## Puppet modules and related tools
 
 - camptocamp/factordb: [Added Raspbian facts](https://github.com/camptocamp/facterdb/pull/136)
 - mcanevet/rspec-puppet-facts: [Clarified](https://github.com/mcanevet/rspec-puppet-facts/pull/106) and [improved](https://github.com/mcanevet/rspec-puppet-facts/pull/108) documentation
 - abuxton/pdk: [Added Ubuntu 18.04 support](https://github.com/abuxton/pdk/pull/3)
 - derdanne/nfs: [Fixed broken daemon-reload](https://github.com/derdanne/puppet-nfs/pull/102)
 - blues-man/puppet-module-hosts: [Added support for Debian-style localhost aliases](https://github.com/blues-man/puppet-module-hosts/pull/1)
-
+- glennsarti/puppetfile-resolver: [Submitted fix for sample code](https://github.com/glennsarti/puppetfile-resolver/issues/7)
 
 ## SailfishOS applications
 
