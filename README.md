@@ -8,6 +8,7 @@
 - derdanne/nfs: [Fixed broken daemon-reload](https://github.com/derdanne/puppet-nfs/pull/102)
 - blues-man/puppet-module-hosts: [Added support for Debian-style localhost aliases](https://github.com/blues-man/puppet-module-hosts/pull/1)
 - glennsarti/puppetfile-resolver: [Submitted fix for sample code](https://github.com/glennsarti/puppetfile-resolver/issues/7)
+- AaltoSciComp/puppet-module-ssh: [Added support for ed25519 user keys](https://github.com/AaltoSciComp/puppet-module-ssh/commit/e100afe4ecb84f64f685e63f5a16aa988bf6adc9)
 
 ## SailfishOS applications
 
