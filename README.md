@@ -23,3 +23,9 @@
 ## Educational software
 
 - cymplecy/scratch_gpio: [Added multi-user environment support and removed sudo requirement](https://github.com/cymplecy/scratch_gpio/pull/16)
+
+# My Puppet modules
+
+- [Install MS Teams client](https://github.com/newcastleuniversity/puppet_module_microsoft_teams)
+- [Install MS Defender Endpoint agent](https://github.com/newcastleuniversity/puppet_module_microsoft_defender_atp_agent)
+- [Install kerberised SMB printer queue for use with CUPS](https://github.com/newcastleuniversity/puppet-module-ksmb)
