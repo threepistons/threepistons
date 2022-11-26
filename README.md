@@ -9,6 +9,7 @@
 ## My other useful things
 
 - [Test your Puppet control repo with Github actions and PDK](https://github.com/newcastleuniversity/action-controlrepo-pdk-tests)
+- [Migrate your issues from an ancient Gitlab instance that uses API v3 to Github](https://github.com/newcastleuniversity/node-gitlab-2-github)
 
 ## Contributions to other people's projects
 
