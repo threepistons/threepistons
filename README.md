@@ -2,7 +2,7 @@
 
 ## My Puppet modules
 
-- [Install MS Teams client](https://github.com/newcastleuniversity/puppet_module_microsoft_teams)
+- ~~[Install MS Teams client](https://github.com/newcastleuniversity/puppet_module_microsoft_teams)~~ now retired because Microsoft have withdrawn Teams for Linux
 - [Install MS Defender Endpoint agent](https://github.com/newcastleuniversity/puppet_module_microsoft_defender_atp_agent)
 - [Install kerberised SMB printer queue for use with CUPS](https://github.com/newcastleuniversity/puppet-module-ksmb)
 
