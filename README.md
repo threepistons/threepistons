@@ -2,9 +2,9 @@
 
 ## My Puppet modules
 
-- ~~[Install MS Teams client](https://github.com/newcastleuniversity/puppet_module_microsoft_teams)~~ now retired because Microsoft have withdrawn Teams for Linux
 - [Install MS Defender Endpoint agent](https://github.com/newcastleuniversity/puppet_module_microsoft_defender_atp_agent)
 - [Install kerberised SMB printer queue for use with CUPS](https://github.com/newcastleuniversity/puppet-module-ksmb)
+- [Create and maintain the Kerberos credentials of an AD-joined Ubuntu system](https://github.com/newcastleuniversity/puppet_module_msktutil)
 
 ## My other useful things
 
@@ -28,11 +28,6 @@
 - piggz/harbour-amazfish: [Fixed right wrist assignment](https://github.com/piggz/harbour-amazfish/pull/89)
 - Karry/osmscout-sailfish: [Added navigation icons for left-hand drive countries](https://github.com/Karry/osmscout-sailfish/pull/176)
 
-### Infosec
-
-- 2factorauth/twofactorauth: [Added Remember The Milk to 2FA database](https://github.com/2factorauth/twofactorauth/pull/3635)
-- ssaunier/lockyourscreen: [Added Yoda to lockyourscreen website](https://github.com/ssaunier/lockyourscreen/pull/10)
-
 ### Educational software
 
-- cymplecy/scratch_gpio: [Added multi-user environment support and removed sudo requirement](https://github.com/cymplecy/scratch_gpio/pull/16)
+- cymplecy/scratch_gpio: [Added multi-user environment support and removed sudo requirement](https://github.com/threepistons/scratch_gpio/releases/tag/ncl-desudoed-release)
