@@ -3,8 +3,8 @@
 ## My Puppet modules
 
 - [Install MS Defender Endpoint agent](https://github.com/newcastleuniversity/puppet_module_microsoft_defender_atp_agent)
-- [Install kerberised SMB printer queue for use with CUPS](https://github.com/newcastleuniversity/puppet-module-ksmb)
 - [Create and maintain the Kerberos credentials of an AD-joined Ubuntu system](https://github.com/newcastleuniversity/puppet_module_msktutil)
+- [Install kerberised SMB printer queue for use with CUPS](https://github.com/newcastleuniversity/puppet-module-ksmb)
 
 ## My other useful things
 
